@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  typed-bitwig-api: 17.0.1
+
+dependencies:
+  typed-bitwig-api: 17.0.1
+
+packages:
+
+  /typed-bitwig-api/17.0.1:
+    resolution: {integrity: sha512-JseWff60xso8dgmH//U6b1P2k5PQHWDInpqE992Y2kIvKbppJgckc1vtHOLSwi1u31tJf5cs3IqMbW70gb4TeA==}
+    dev: false

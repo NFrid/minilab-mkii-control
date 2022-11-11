@@ -1,0 +1,14 @@
+{
+  "name": "Minilab MK II controller script",
+  "description": "Arturia Minilab MK II controller script",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "Nick Friday",
+  "license": "MIT",
+  "dependencies": {
+    "typed-bitwig-api": "17.0.1"
+  }
+}
